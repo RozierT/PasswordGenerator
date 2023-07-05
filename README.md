@@ -1,6 +1,17 @@
 # PasswordGenerator
 Password Generator
-# 03 JavaScript: Password Generator
+
+URL to Webpage: https://roziert.github.io/PasswordGenerator/
+
+![Website Screenshot](image.png)
+
+# Description
+In this challenge I was asked to create a random password generator using Javascript. The HTML and CSS was provided and did not need any editting. 
+Having a near blank javascript sheet to work from showed the importance of psuedocode to layout a plan of what needed to happen.
+In order to complete this challenge I needed to understand how to create and mannipulate arrays, for loops, window.prompt, window.confirm, and alerts. 
+
+
+# 03 JavaScript: Password Generator - These were the instructions given to me to complete this challenge
 
 ## Your Task
 
